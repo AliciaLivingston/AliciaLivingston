@@ -12,11 +12,11 @@
 
  🤝 I’m looking for help with **learning AWS and honing my java skills**
 
- 👨‍💻 All of my projects are available at [github.com/alicialivingston](github.com/alicialivingston)
+ 👨‍💻 All of my projects are available at [github.com/alicialivingston](https://github.com/alicialivingston) 
 
  📫 How to reach me **aliciamarielivs@gmail.com**
 
- 📄 Know about my experiences [wwww.linkedin.com/in/amlivingston](wwww.linkedin.com/in/amlivingston)
+ 📄 Know about my experiences [wwww.linkedin.com/in/amlivingston](https://linkedin.com/in/amlivingston)
 
  ⚡ Fun fact **A single spaghetti noodle is called a spaghetto.**
 </div>
