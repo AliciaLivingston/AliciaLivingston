@@ -34,4 +34,9 @@
 <p><a href="https://www.buymeacoffee.com/aliciamariQ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="aliciamariQ" height="40" /></a></p><br><br>
 <br>
 
+[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AliciaLivingston)](https://git.io/awesome-stats-card)
+ 
+ 
+ 
+
 
