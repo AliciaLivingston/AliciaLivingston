@@ -13,7 +13,7 @@
 
  🤝 I’m looking for help with **learning AWS and honing my java skills**
 
- 👨‍💻 All of my projects are available at [github.com/alicialivingston](https://github.com/alicialivingston) 
+ 👨‍💻 Come code with me on codewars [codewars.com/users/KitchenVVitchy](https://www.codewars.com/users/KitchenVVitchy) 
 
  📫 How to reach me **aliciamarielivs@gmail.com**
 
