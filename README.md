@@ -5,7 +5,7 @@
  
  👀 I’m interested in building a career in tech, live concerts, forests, and spooky/Halloween things 
 
- 🔭 I’m currently working on [my coding portfolio website](https://alicialivingston.github.io/ALivingstonCodes)
+ 🔭 I’m currently working on [my coding portfolio website](https://alicialivingston.github.io/)
 
  🌱 I’m currently learning **Figma**
 
