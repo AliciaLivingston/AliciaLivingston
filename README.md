@@ -17,7 +17,7 @@
 
  📫 How to reach me **aliciamarielivs@gmail.com**
 
- 📄 Know about my experiences [wwww.linkedin.com/in/amlivingston](https://linkedin.com/in/amlivingston)
+ 📄 Learn about my experiences [wwww.linkedin.com/in/amlivingston](https://linkedin.com/in/amlivingston)
 
  ⚡ Fun fact **A single spaghetti noodle is called a spaghetto.**
 </div>
