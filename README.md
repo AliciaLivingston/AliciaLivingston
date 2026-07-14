@@ -1,13 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Alicia Livingston</h1>
-<h3 align="center">A passionate full stack developer from Columbus, Ohio</h3>
-<div id="facts" align="center">
  
  👀 I’m interested in building a career in tech, live concerts, forests, and spooky/Halloween things 
 
  🔭 I’m currently working on [my coding portfolio website](https://alicialivingston.github.io/)
 
- 🌱 I’m currently learning **Figma**
+ 🌱 I’m currently learning **Claude.ai**
 
  👯 I’m looking to collaborate on **a full stack music concert history app**
 
